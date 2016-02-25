@@ -7,6 +7,7 @@ public class holamundo {
 		System.out.println("hola mundo 2");
 		System.out.println("hola mundo 34");
 		System.out.println("mariconaso");
+		System.out.println("Hola Ter");
 	}
 
 }
